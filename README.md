@@ -7,6 +7,10 @@ A web-based application that reads RSS feeds. Using [Jasmine](http://jasmine.git
 - Download/clone this repository and
 - Open it in your favorite code editor
 
+####  OR
+
+You can view the project [here](https://radwamohammed.github.io/Feed-reader-testing/)
+
 
 ## Dependencies
 
